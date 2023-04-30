@@ -8,7 +8,8 @@ public class BrowserUtils {
 
     // checking changes comments
     // another line for practice
-
+// we are added more lines from remote master
+    // we made more changes from the remote master
 
 
 }
