@@ -1,6 +1,6 @@
-package util;
+package utils;
 
-public class StringUtil {
+public class StringUtils {
     //hello my friend
     
     
