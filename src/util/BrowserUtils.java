@@ -6,6 +6,9 @@ public class BrowserUtils {
 
     //class review
 
+    // checking changes comments
+    // another line for practice
+
 
 
 }
